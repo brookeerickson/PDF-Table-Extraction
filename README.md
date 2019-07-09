@@ -1,4 +1,5 @@
-# In Collaboration with PEAK, Data+, Alejandro Ortega, Jade Wu
+# PDF Table Extraction
+## In Collaboration with PEAK, Data+, Alejandro Ortega, Jade Wu
 ## Dependencies
 * ImageMagick
 * GhostScript
