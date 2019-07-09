@@ -1,4 +1,4 @@
-# Project 24
+# In Collaboration with PEAK, Data+, Alejandro Ortega, Jade Wu
 ## Dependencies
 * ImageMagick
 * GhostScript
